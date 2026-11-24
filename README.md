@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0455-assign-cookies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -78,4 +79,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
