@@ -22,6 +22,7 @@
 | [1470-shuffle-the-array](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1732-find-the-highest-altitude) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1051-height-checker) |
+| [1512-number-of-good-pairs](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1512-number-of-good-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0001-two-sum) |
+| [1512-number-of-good-pairs](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
@@ -122,6 +125,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1512-number-of-good-pairs) |
 ## Stack
 |  |
 | ------- |
