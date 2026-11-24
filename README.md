@@ -54,6 +54,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1929-concatenation-of-array) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0520-detect-capital) |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0067-add-binary) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1512-number-of-good-pairs) |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
