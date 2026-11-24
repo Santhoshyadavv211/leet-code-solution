@@ -6,6 +6,7 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0455-assign-cookies) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Matrix
