@@ -19,6 +19,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1773-count-items-matching-a-rule) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1773-count-items-matching-a-rule) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
