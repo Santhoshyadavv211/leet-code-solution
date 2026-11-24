@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0709-to-lower-case) |
