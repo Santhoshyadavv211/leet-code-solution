@@ -15,6 +15,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1512-number-of-good-pairs) |
 ## Stack
 |  |
