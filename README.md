@@ -22,6 +22,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search
@@ -44,6 +45,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
