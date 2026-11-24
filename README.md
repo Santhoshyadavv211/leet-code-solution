@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0455-assign-cookies) |
+| [0724-find-pivot-index](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1051-height-checker) |
@@ -89,4 +90,8 @@
 | ------- |
 | [0001-two-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0001-two-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2215-find-the-difference-of-two-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
