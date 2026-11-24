@@ -61,12 +61,14 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1773-count-items-matching-a-rule) |
+| [2000-reverse-prefix-of-word](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2000-reverse-prefix-of-word](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
