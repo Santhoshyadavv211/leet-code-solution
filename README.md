@@ -26,6 +26,7 @@
 | [1512-number-of-good-pairs](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1920-build-array-from-permutation) |
@@ -47,6 +48,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
