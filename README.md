@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0520-detect-capital](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0709-to-lower-case) |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2000-reverse-prefix-of-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
