@@ -139,6 +139,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0258-add-digits) |
