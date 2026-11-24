@@ -20,6 +20,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +88,5 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0001-two-sum) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
