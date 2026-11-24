@@ -101,4 +101,12 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1732-find-the-highest-altitude) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
