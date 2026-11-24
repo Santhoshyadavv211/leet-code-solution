@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0455-assign-cookies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -38,6 +39,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1051-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
