@@ -20,6 +20,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1920-build-array-from-permutation) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0709-to-lower-case](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
