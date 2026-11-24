@@ -18,6 +18,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
