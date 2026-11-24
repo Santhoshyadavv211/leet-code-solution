@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0283-move-zeroes) |
@@ -118,6 +119,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
