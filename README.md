@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -67,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/2000-reverse-prefix-of-word) |
