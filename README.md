@@ -139,6 +139,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0067-add-binary) |
+| [0728-self-dividing-numbers](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/0728-self-dividing-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Santhoshyadavv211/leet-code-solution/tree/master/1512-number-of-good-pairs) |
